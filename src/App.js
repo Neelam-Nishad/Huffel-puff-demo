@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       Hello Hufflepuff
       <p>Second update</p>
+      <p> This is added in feature first </p>
     </div>
   );
 }
